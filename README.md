@@ -30,4 +30,4 @@ If you find our work useful in your research or publication, please cite our wor
 ```
 
 ## Acknowledgements
-* GCN implemetation with [PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric).
+* GCN implementation with [PyTorch Geometric](https://github.com/rusty1s/pytorch_geometric).

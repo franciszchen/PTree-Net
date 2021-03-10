@@ -9,6 +9,7 @@ This repository is an official PyTorch implementation of the paper **"Diagnose L
 * PyTorch >= 1.5.0
 * torch-geometric
 * numpy
+* sklearn
 * openslide
 
 ## Quickstart 

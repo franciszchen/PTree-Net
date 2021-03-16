@@ -1,6 +1,6 @@
 # PTree-Net
 
-This repository is an official PyTorch implementation of the paper **"Diagnose Like A Pathologist: Weakly-Supervised Pathologist-Tree Network for Slide-Level Immunohistochemical Scoring"** from **AAAI 2021**.
+This repository is an official PyTorch implementation of the paper **"Diagnose Like A Pathologist: Weakly-Supervised Pathologist-Tree Network for Slide-Level Immunohistochemical Scoring"** [[paper](https://www.researchgate.net/publication/350089153_Diagnose_Like_A_Pathologist_Weakly-Supervised_Pathologist-Tree_Network_for_Slide-Level_Immunohistochemical_Scoring)] from **AAAI 2021**.
 
 <div align=center><img width="700" src=/figs/framework.png></div>
 
